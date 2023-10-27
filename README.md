@@ -7,7 +7,7 @@ Este programa es una Biblioteca Virtual que permite gestionar préstamos de libr
 ### BusquedaLibros
 La clase `BusquedaLibros` es una ventana de la aplicación que permite a los usuarios buscar información sobre libros en la biblioteca. Los principales componentes y métodos incluyen:
 
-- **Búsqueda de Libros:** Los usuarios pueden ingresar un término de búsqueda y realizar consultas para encontrar libros en la biblioteca.
+- **Búsqueda de Libros:** Los usuarios pueden ingresar un término de búsqueda y realizar consultas para encontrar libros en la biblioteca además de añadir a la lista libros nuevos.
 - **Tabla de Resultados:** Los resultados de búsqueda se muestran en una tabla que incluye información sobre los libros, como título, autor y disponibilidad.
 - **Botón de Prestamos:** Un botón que permite a los usuarios cambiar a la ventana de "Prestamos" para gestionar préstamos de libros.
 
